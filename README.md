@@ -34,5 +34,5 @@ The example uses the **Iris dataset**, a classic dataset in machine learning, to
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pandas-matplotlib-analysis.git
+   git clone https://github.com/stephennafula/pandas-matplotlib-analysis.git
    cd pandas-matplotlib-analysis
